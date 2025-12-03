@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Clarus",
+  "description": "A premium personal medical companion offering symptom understanding, report analysis, medication management, and safe AI guidance.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
